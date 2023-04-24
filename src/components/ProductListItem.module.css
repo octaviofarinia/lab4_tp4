@@ -1,0 +1,13 @@
+.productListItem {
+  display: flex;
+  align-items: center;
+}
+
+.productListItem img {
+  max-width: 100px;
+  margin-right: 1rem;
+}
+
+.productListItem p {
+  margin: 0;
+}
