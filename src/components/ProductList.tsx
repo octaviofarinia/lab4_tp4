@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import ProductListItem from "./ProductListItem";
 import productsData from "../../data.json";
 import { Product } from "../types";
-import styles from "./ProductList.module.css";
+import styles from "./Product.module.css";
 
 const ProductList = () => {
   return (
